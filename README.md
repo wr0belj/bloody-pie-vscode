@@ -1,2 +1,2 @@
-# Red Theme
-Dark Red Theme for VS Code
+# Bloody Pie Theme for Visual Studio Code
+
