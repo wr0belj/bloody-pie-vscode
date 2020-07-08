@@ -2,6 +2,6 @@
 
 All notable changes to the "bloody-pie-vscode" extension will be documented in this file.
 
-## [Unreleased]
+## 1.0.0
 
-- Initial release
+Initial release

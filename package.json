@@ -1,10 +1,10 @@
 {
-    "name": "red-theme",
-    "displayName": "Red Theme",
-    "description": "",
-    "version": "0.0.1",
+    "name": "bloody-pie",
+    "displayName": "Bloody Pie",
+    "description": "A high-contrast dark theme with bloody red accent.",
+    "version": "1.0.0",
     "engines": {
-        "vscode": "^1.44.0"
+        "vscode": "^1.46.0"
     },
     "categories": [
         "Themes"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Red Theme",
+                "label": "Bloody Pie",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Red Theme-color-theme.json"
+                "path": "./themes/bloody-pie-color-theme.json"
             }
         ]
     }
