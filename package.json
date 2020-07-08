@@ -2,9 +2,26 @@
     "name": "bloody-pie",
     "displayName": "Bloody Pie",
     "description": "A high-contrast dark theme with bloody red accent.",
+    "icon": "media/bloody-pie-logo.png",
+    "keywords": [
+        "bloody",
+        "pie",
+        "bloody pie",
+        "theme",
+        "dark",
+        "red"
+    ],
     "version": "1.0.0",
+    "publisher": "wrobeljakub",
     "engines": {
         "vscode": "^1.46.0"
+    },
+    "bugs": {
+        "url": "https://github.com/wrobeljakub/bloody-pie-vscode/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wrobeljakub/bloody-pie-vscode"
     },
     "categories": [
         "Themes"
@@ -17,5 +34,9 @@
                 "path": "./themes/bloody-pie-color-theme.json"
             }
         ]
-    }
+    },
+    "galleryBanner": {
+        "color": "#11100f",
+        "theme": "dark"
+    },
 }
